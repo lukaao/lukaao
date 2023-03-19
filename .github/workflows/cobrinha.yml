@@ -23,3 +23,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+          -------------------------------------------
+          ![Snake aimation](https://github.com/lukaao/lukaao/blob/output/github-contribution-grid-snake.svg)
